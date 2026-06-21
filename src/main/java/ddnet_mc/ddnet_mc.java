@@ -7,7 +7,7 @@ import net.minecraft.resources.ResourceLocation;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class Ddnet_mc implements ModInitializer {
+public class ddnet_mc implements ModInitializer {
 	public static final String MOD_ID = "ddnet_mc";
 
 	// This logger is used to write text to the console and the log file.

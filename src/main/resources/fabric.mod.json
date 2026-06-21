@@ -3,7 +3,7 @@
 	"id": "ddnet_mc",
 	"version": "${version}",
 	"name": "ddnet_mc",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "a mod making ddnet playable in minecraft",
 	"authors": [
 		"Me!"
 	],
@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"ddnet_mc.Ddnet_mc"
+			"ddnet_mc.ddnet_mc"
 		],
 		"client": [
-			"ddnet_mc.client.Ddnet_mcClient"
+			"ddnet_mc.client.ddnet_mcClient"
 		]
 	},
 	"mixins": [
