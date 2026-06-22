@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "ddnet_mc:block/hookable_block" }
+  }
+}
